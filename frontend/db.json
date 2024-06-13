@@ -1,0 +1,52 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "HTML is easy",
+      "importance": true,
+      "important": true
+    },
+    {
+      "id": "2",
+      "content": "Browser can execute only JavaScript",
+      "importance": false,
+      "important": false
+    },
+    {
+      "id": "3",
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "importance": true,
+      "important": true
+    },
+    {
+      "id": "ab41",
+      "content": "JAVA is the best programming language",
+      "important": false
+    },
+    {
+      "id": "de51",
+      "content": "I like JavaScript",
+      "important": false
+    },
+    {
+      "id": "1983",
+      "content": "Lets learn how to code",
+      "important": true
+    },
+    {
+      "id": "8c5a",
+      "content": "BlockChain development is hard",
+      "important": false
+    },
+    {
+      "id": "a212",
+      "content": "I love coding",
+      "important": true
+    },
+    {
+      "id": "1b9b",
+      "content": "",
+      "important": false
+    }
+  ]
+}
