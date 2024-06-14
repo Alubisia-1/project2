@@ -1,0 +1,12 @@
+{
+    "name": "project2",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "install": "npm install --prefix frontend && npm install --prefix backend",
+      "start": "npm run start:backend & npm run start:frontend",
+      "start:frontend": "npm run server --prefix frontend & npm run dev --prefix frontend",
+      "start:backend": "npm start --prefix backend"
+    }
+  }
+  
